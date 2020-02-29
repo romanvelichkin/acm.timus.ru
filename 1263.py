@@ -19,5 +19,3 @@ for i in range(m):
 for vote in votes:
     result = round(100 * votes[vote] / m, 2)
     print('%.2f' % result + '%')
-
-
