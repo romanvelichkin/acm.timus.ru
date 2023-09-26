@@ -1,6 +1,8 @@
 # 1607. Такси
 # https://acm.timus.ru/problem.aspx?space=1&num=1607
 
+# solved
+
 # tricky part is when to check price and order of steps
 # there could be used an arithmetic progression,
 # but without understanding order of steps and price check it will be pure guessing
